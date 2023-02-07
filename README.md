@@ -1,6 +1,6 @@
 # Flex Ladies
 
-Este es mi primer proyecto realizado en equipo y con HTML5 y CSS3.
+Este es mi primer proyecto realizado en equipo, con HTML5 y CSS3, y siendo **responsive**.
 
 ![flex_ladies](https://user-images.githubusercontent.com/113979188/216962370-c1b8fb2c-c021-4e2a-924e-b29bc0c8dbd8.gif)
 
