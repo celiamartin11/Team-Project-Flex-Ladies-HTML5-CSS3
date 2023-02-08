@@ -23,4 +23,4 @@ En este apartado encontrarás un formulario. Simplemente tendrás que rellenar c
 
 ## Menú 
 
-El menú se presenta en formato horizontal, y consta de los diferente apartados que presenta la página web. (Equipo, Quiénes somos, Contacto). Dicho menú está preparado para que a medida que vayas viendo la página, este se mantenga para que sea accesible para ti en el caso de que queras ir a otra sección...
+El menú se presenta en formato horizontal, y consta de los diferente apartados que presenta la página web. (Equipo, Quiénes somos, Contacto). Dicho menú está preparado para que a medida que vayas viendo la página, este se mantenga para que sea accesible para ti en el caso de que queras ir a otra sección.
